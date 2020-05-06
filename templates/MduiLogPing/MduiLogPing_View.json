@@ -191,7 +191,7 @@
         "signals-horz-2": 0,
         "signals-vert-2": 0,
         "signals-hide-edit-2": false,
-        "html": "Erreichbarkeit IP-GerÃ¤te",
+        "html": "Erreichbarkeit IP-Geräte",
         "class": "mdui-title mdui-{0_userdata.0.mdui.card_title_color}",
         "g_last_change": false,
         "lc-type": "last-change",
